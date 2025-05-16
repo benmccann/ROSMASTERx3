@@ -2,7 +2,7 @@
 
 ![Jetson Orin NX + ROSMASTER X3](https://user-images.githubusercontent.com/example-graphic.jpg)
 
-Welcome to the ultimate guide on running a powerful AI-powered bot in just **60 minutes!** This project integrates state-of-the-art **vision and speech models** on an **NVIDIA Jetson Orin NX**, mounted on **ROSMARTER X3**, ensuring optimized performance, speed, and accuracy.
+Welcome to the ultimate guide on running a powerful AI-powered bot in just **60 minutes!** This project integrates state-of-the-art **vision and speech models** on an **NVIDIA Jetson Orin NX**, mounted on **ROSMASTER X3**, ensuring optimized performance, speed, and accuracy.
 
 ## 🔥 **Why This Project?**
 ✅ **Real-time AI Processing** on NVIDIA Jetson Orin NX  
